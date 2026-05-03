@@ -1,0 +1,5 @@
+CREATE DATABASE SchoolDB;
+GO
+
+USE SchoolDB;
+GO
